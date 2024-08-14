@@ -3,7 +3,8 @@
 
 
 
-<h1>COMPARISON OF TWO ALGORITHMS -DECISION TREE AND ARTIFICIAL NEURAL NETWORK </h1>
+
+<h2>COMPARISON OF TWO ALGORITHMS -DECISION TREE AND ARTIFICIAL NEURAL NETWORK </h2>
 The accuracy and other performance metrics of two classification algorithms were compared in this </h2>
 study. Decision Tree Classification Algorithm and Artificial Neural Network were the two MLAs whose
 performance were compared. The two MLAs were implemented on the PIMA India Diabetes dataset.
