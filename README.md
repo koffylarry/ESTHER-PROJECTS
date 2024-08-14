@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esther! <br/><a href="https://github.com/koffylarry">DATA ANALYST</a>, <a href="https://www.linkedin.com/in/oluwayemisi-adebanjo-07589a139/"> <h2>👨‍💻Data Analyst,👨‍💻CUSTOMER INSIGHT ANALYST</h2>,
+<h1>Hi, I'm Esther! <br/><a href="https://github.com/koffylarry">DATA ANALYST</a>, <a href="https://www.linkedin.com/in/oluwayemisi-adebanjo-07589a139/"> <h2>👨‍💻Data Analyst,👨‍💻CUSTOMER INSIGHT ANALYST</h2>
 
 
 
