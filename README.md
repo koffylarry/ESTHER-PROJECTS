@@ -1,5 +1,5 @@
-<h1>Hi, I'm Esther! <br/><a href="https://github.com/koffylarry">Programmer</a>, <a href="https://www.linkedin.com/in/oluwayemisi-adebanjo-07589a139/"> <h2>Data Analyst</h2>,
-<h2>👨‍💻 Customer Insight Analyst:</h2>
+<h1>Hi, I'm Esther! <br/><a href="https://github.com/koffylarry">DATA ANALYST</a>, <a href="https://www.linkedin.com/in/oluwayemisi-adebanjo-07589a139/"> <h2>👨‍💻Data Analyst,👨‍💻CUSTOMER INSIGHT ANALYST</h2>,
+
 
 
 <h2>COMPARISON OF TWO ALGORITHMS -DECISION TREE AND ARTIFICIAL NEURAL NETWORK </h2>
