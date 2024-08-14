@@ -2,7 +2,7 @@
 <h2>👨‍💻 Customer Insight Analyst:</h2>
 
 
-<h2>DECISION TREE </h2>
+<h2>COMPARISON OF TWO ALGORITHMS -DECISION TREE AND ARTIFICIAL NEURAL NETWORK </h2>
 The accuracy and other performance metrics of two classification algorithms were compared in this </h2>
 study. Decision Tree Classification Algorithm and Artificial Neural Network were the two MLAs whose
 performance were compared. The two MLAs were implemented on the PIMA India Diabetes dataset.
@@ -39,9 +39,9 @@ rcParams['figure.figsize'] = (12, 6)
 
 
  
-*Association Rule in Jupyter notebook code
-  - Codes are saved as Association Rule(Task 2).IPYNB
-*Association rule mining was implemented an online retail dataset. Apriori ARM method was used to
+
+    <h2>Association rule mining was implemented an online retail dataset.</h2> 
+    Apriori ARM method was used to
 establish the relationships for the items/products that were bought together based on different the
 transactions done in some countries in the dataset. The result of the ARM was obtained for at least 8
 countries in the dataset to show the items/products that were frequently bought together. The lift,
