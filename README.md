@@ -2,7 +2,8 @@
 <h2>👨‍💻 Customer Insight Analyst:</h2>
 
 
-<h2>The accuracy and other performance metrics of two classification algorithms were compared in this </h2>
+<h2>DECISION TREE </h2>
+The accuracy and other performance metrics of two classification algorithms were compared in this </h2>
 study. Decision Tree Classification Algorithm and Artificial Neural Network were the two MLAs whose
 performance were compared. The two MLAs were implemented on the PIMA India Diabetes dataset.
 The result of the comparison depicted that ANN performed better than decision tree classifier as it has
