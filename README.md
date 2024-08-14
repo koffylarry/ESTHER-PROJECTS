@@ -40,7 +40,7 @@ rcParams['figure.figsize'] = (12, 6)
 
  
 
-    <h2>Association rule mining was implemented an online retail dataset.</h2> 
+<h2>ASSOCIATION RULE MINNING WAS IMPLEMENTED IN AN ONLINE RETAIL DATASET </h2> 
     Apriori ARM method was used to
 establish the relationships for the items/products that were bought together based on different the
 transactions done in some countries in the dataset. The result of the ARM was obtained for at least 8
