@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esther! <br/><a href="https://github.com/koffylarry">Programmer</a>, <a href="https://www.linkedin.com/in/oluwayemisi-adebanjo-07589a139/">Data Analyst</a>,
+<h1>Hi, I'm Esther! <br/><a href="https://github.com/koffylarry">Programmer</a>, <a href="https://www.linkedin.com/in/oluwayemisi-adebanjo-07589a139/"> <h2>Data Analyst</h2>,
 <h2>👨‍💻 Customer Insight Analyst:</h2>
 
 
@@ -68,9 +68,8 @@ the products that were actually bought together in each of the transactional cou
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
- Enclosed in the Submission file are:
-*Sentiment Analysis Jupyter notebook code
-  - Codes are saved as ADEBANJO_YEMISI.IPYNB
+ 
+<h2>SENTIMENT ANALYSIS ON A TOURIST DATASET USING VADER MODULE </h2> 
 *Sentiment analysis was carried out on tourist dataset using VADER module of nltk python library. The
 dataset contains the customers’ review of the hotels/Restaurant. 30 distinct hotels were selected and
 the VADER implemented to calculate the polarity scores of the customers’ review for each of the hotel,
@@ -108,10 +107,8 @@ Review
  %matplotlib inline
 
 
- Enclosed in the Submission file are:
-*Association Rule in Jupyter notebook code
-  - Codes are saved as Clustering(Task 3).IPYNB
 
+<h2> CLUSTERING ALLGORITHM</h2>
 *In this study, two Clustering Algorithms namely K means Clustering and BIRCH Clustering Algorithms
 were implemented on a dataset. To implement the Clustering Algorithms, the dataset was pre-
 processed to identify the invariate and the most suitable variables for the analyses. After pre-processing,
